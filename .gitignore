@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# relative paths
+docs/ntk/*
+!docs/ntk/.gitkeep
